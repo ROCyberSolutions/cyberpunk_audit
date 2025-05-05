@@ -2,7 +2,7 @@
 # 🚀 Cyberpunk System Audit Tool
 
 ![Cyberpunk Style](https://img.shields.io/badge/Style-Cyberpunk-00ff99?style=for-the-badge)
-![Bash Version](https://img.shields.io/badge/Bash-5.1%2B-brightgreen?style=for-the-badge&logo=gnu)
+![Bash Version](https://img.shields.io/badge/Bash-5.1%2B-brightgreen?style=for-the-badge&logo=gnu-bash)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 A futuristic system diagnostic tool that performs comprehensive hardware and software audits with cyberpunk aesthetics.

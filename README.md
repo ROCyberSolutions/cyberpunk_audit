@@ -51,7 +51,7 @@ The script will:
 
 ## 🖥️ Report Preview
 
-![HTML Report Preview](https://github.com/ROCyberSolutions/cyberpunk-audit/raw/main/assets/report-preview.png)
+![HTML Report Preview](https://github.com/ROCyberSolutions/cyberpunk-audit/1.png)
 
 ## 🌐 Social Media
 
